@@ -1,13 +1,13 @@
 {
-    "name": "yaguin/nfse-bh-sdk",
+    "name": "viniciusmuniz/nfse-bh-sdk",
     "type": "library",
     "description": "Biblioteca para geração de NFS-E de Belo Horizonte",
-    "homepage": "https://www.linkedin.com/in/yago-fernandes",
+    "homepage": "https://www.viniciusmuniz.com",
     "keywords": ["nfse", "lib", "nfsebh"],
     "license": "MIT",
     "authors": [{
-        "name": "Yago Fernandes",
-        "email": "yagof.3111@gmail.com"
+        "name": "Vinicius Muniz",
+        "email": "vmunizm@gmail.com"
     }],
     "minimum-stability": "stable",
     "prefer-stable": true,
